@@ -1,4 +1,5 @@
 console.log("Hello world")
+console.log("hello world")
 // Função para realizar a soma de dois números
 function realizarSoma(numero1, numero2) {
   return numero1 + numero2;
